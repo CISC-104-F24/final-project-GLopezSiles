@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2606887854631771822}
   - component: {fileID: 5033770496565535108}
   m_Layer: 0
-  m_Name: Square (1)
+  m_Name: ArrowPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
